@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-bottom: 1rem;
+}
+
+body {
+    padding: 1rem;
+}
+
+.immagini {
+    margin-bottom: .5rem;
+}
