@@ -15,3 +15,12 @@ body {
 .immagini {
     margin-bottom: .5rem;
 }
+
+h2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+section {
+    margin-bottom: 1rem;
+}
