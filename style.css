@@ -25,6 +25,6 @@ section {
     margin-bottom: 1rem;
 }
 
-ul {
+ul, ol {
     margin-left: 2em;
 }
